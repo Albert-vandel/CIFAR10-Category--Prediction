@@ -106,9 +106,7 @@ Epoch 15/15 | Train Loss: 0.2174 | Val Acc: 76.89%
 | LeNet   | 60K    | 67.2%      | 2min            |
 | ResNet34| 21M    | 82.1%      | 8min            |
 
-![验证准确率曲线](docs/accuracy_curve.png)
-![混淆矩阵](docs/confusion_matrix.png)
-
+混淆矩阵以及准确率曲线对比图像均位于result文档
 ## 模型导出
 导出为ONNX格式：
 ```python
