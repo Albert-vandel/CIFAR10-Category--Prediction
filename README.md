@@ -4,6 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+光电2312刘越
 使用LeNet和ResNet34模型实现CIFAR10数据集的图像分类，包含完整训练流程、可视化分析和模型部署能力。
 
 ## 目录
